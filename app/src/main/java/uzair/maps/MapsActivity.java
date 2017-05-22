@@ -280,5 +280,9 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
     public void onConnectionFailed(@NonNull ConnectionResult connectionResult) {
 
     }
+    public void Test()
+    {
+
+    }
 
 }
